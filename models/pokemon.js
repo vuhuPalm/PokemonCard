@@ -26,6 +26,7 @@ module.exports = (sequelize, DataTypes) => {
     move2cost2: DataTypes.STRING,
     move2cost3: DataTypes.STRING,
     move2name: DataTypes.STRING,
+    move2power: DataTypes.STRING,
     weakness: DataTypes.STRING,
     resistance: DataTypes.STRING,
     retreatcost: DataTypes.STRING

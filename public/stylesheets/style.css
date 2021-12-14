@@ -13,6 +13,7 @@ a {
   padding: 48px;
   display:flex;
   gap: 15px;
+  flex-wrap:wrap;
 }
 
 .card {
